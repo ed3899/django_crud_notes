@@ -1,0 +1,7 @@
+name: django_crud
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.3
+  - django=4.1
+  - djangorestframework=3.14.0
